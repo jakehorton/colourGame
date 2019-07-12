@@ -1,0 +1,16 @@
+{
+  "name": "githubPages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+	"homepage","https://jakehorton.github.io/githubPages",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
