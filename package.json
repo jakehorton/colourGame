@@ -1,5 +1,5 @@
 {
-  "name": "githubPages",
+  "name": "colourgame",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-	"homepage": "https://jakehorton.github.io/githubPages",
+	"homepage": "https://jakehorton.github.io/colourgame",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
